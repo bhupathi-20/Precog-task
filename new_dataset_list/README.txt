@@ -1,0 +1,1 @@
+Each of the file's name is separated by '/', use split('/') method to retrieve the images.

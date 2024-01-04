@@ -1,0 +1,5 @@
+keras_ocr == 0.9.3
+ultralytics == 8.0.231 
+sklearn == 1.2.2
+seaborn == 0.12.2
+nltk == 3.8.1
